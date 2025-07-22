@@ -1,0 +1,36 @@
+{
+  "le_mans": {
+    "name": "Circuit de la Sarthe",
+    "length": 13626.0,
+    "sectors": [
+      5500.0,
+      3850.0,
+      4276.0
+    ],
+    "brake_zones": [
+      {
+        "position": 0.05,
+        "intensity": 0.9,
+        "duration": 200
+      },
+      {
+        "position": 0.35,
+        "intensity": 0.7,
+        "duration": 150
+      },
+      {
+        "position": 0.85,
+        "intensity": 0.6,
+        "duration": 100
+      }
+    ],
+    "optimal_speeds": {
+      "0.0": 280,
+      "0.1": 320,
+      "0.2": 180,
+      "0.4": 160,
+      "0.6": 240,
+      "0.8": 200
+    }
+  }
+}

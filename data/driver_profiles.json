@@ -1,0 +1,9 @@
+{
+  "default_profile": {
+    "skill_level": 0.5,
+    "braking_style": "balanced",
+    "consistency_level": 0.7,
+    "preferred_coaching_style": "encouraging",
+    "coaching_frequency": "balanced"
+  }
+}

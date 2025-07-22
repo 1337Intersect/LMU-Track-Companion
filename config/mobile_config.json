@@ -1,0 +1,10 @@
+{
+  "server_url": "ws://192.168.1.100:8765/ws",
+  "app_name": "LMU Track Companion",
+  "version": "1.0.0",
+  "features": {
+    "voice_coaching": true,
+    "racing_line": true,
+    "analytics": true
+  }
+}

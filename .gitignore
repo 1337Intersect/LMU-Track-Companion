@@ -1,0 +1,35 @@
+# Dipendenze
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Log e cache
+logs/
+*.log
+.expo/
+.expo-shared/
+
+# Database e dati temporanei
+data/session_history/*.json
+downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env e config locali
+.env
+config/local_*
+
+# Build
+build/
+dist/
+*.apk
+*.ipa
